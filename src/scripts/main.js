@@ -1,6 +1,6 @@
 AOS.init();
 
-const eventDate = new Date("2022-09-19T16:00:00");
+const eventDate = new Date("2023-09-19T16:00:00");
 const eventTimeStamp = eventDate.getTime();
 
 const counter = setInterval(() => {
